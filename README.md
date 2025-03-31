@@ -1,4 +1,4 @@
-# 1tunnitoo
+# I tunnitöö
 
 Ülesannet saavad teha ainult need, kes olid 18.03 tunnis kohal.
 Tähtaeg: 01.04.2025
